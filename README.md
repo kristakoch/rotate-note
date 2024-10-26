@@ -1,0 +1,1 @@
+Little utility to create a weekly md note for the current week with day headings and rotate the last week's note to an archive directory.

@@ -1,4 +1,3 @@
-// package rnrn contains code to rotate notes right now
 package main
 
 import (
@@ -12,7 +11,7 @@ import (
 	"time"
 )
 
-const defaultNotesDir = "/Users/krista/Documents/notes"
+const defaultNotesDir = "/Users/kristakoch/Documents/notes"
 const defaultRotateDir = "weekly"
 
 func main() {
